@@ -1,0 +1,22 @@
+{
+  "name": "gymx",
+  "version": "0.1.0",
+  "description": "Gym memberships",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oblivious-Oblivious/GymX.git"
+  },
+  "author": "Oblivious-Theod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oblivious-Oblivious/GymX/issues"
+  },
+  "homepage": "https://github.com/Oblivious-Oblivious/GymX#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
